@@ -1679,17 +1679,6 @@ body {
 .cid-qL6mZFpbfL .mbr-text B {
   color: #232323;
 }
-.cid-qL17lkb4xB {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #073b4c;
-}
-.cid-qL17lkb4xB .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qL17lkb4xB B {
-  color: #ffffff;
-}
 .cid-qL19uz0a9u {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1732,6 +1721,17 @@ body {
 .cid-qL19AEz2Cc blockquote {
   color: #767676;
 }
+.cid-qL17lkb4xB {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #073b4c;
+}
+.cid-qL17lkb4xB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qL17lkb4xB B {
+  color: #ffffff;
+}
 .cid-qL1b8ZxaLC {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1752,6 +1752,9 @@ body {
 .cid-qL1b8ZxaLC .card-title {
   text-align: center;
 }
+.cid-qL1b8ZxaLC P {
+  text-align: center;
+}
 .cid-qL1bqqejnq {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1770,6 +1773,78 @@ body {
   padding-top: 2rem;
 }
 .cid-qL1bqqejnq .card-title {
+  text-align: center;
+}
+.cid-qL1bqqejnq P {
+  text-align: center;
+}
+.cid-qLj8rmL7zY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qLj8rmL7zY h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qLj8rmL7zY p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qLj8rmL7zY .card-box {
+  padding-top: 2rem;
+}
+.cid-qLj8rmL7zY .card-title {
+  text-align: center;
+}
+.cid-qLj8rmL7zY P {
+  text-align: center;
+}
+.cid-qLj8EZ1eNZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qLj8EZ1eNZ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qLj8EZ1eNZ p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qLj8EZ1eNZ .card-box {
+  padding-top: 2rem;
+}
+.cid-qLj8EZ1eNZ .card-title {
+  text-align: center;
+}
+.cid-qLj8EZ1eNZ P {
+  text-align: center;
+}
+.cid-qLj8PuVXLL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qLj8PuVXLL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qLj8PuVXLL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qLj8PuVXLL .card-box {
+  padding-top: 2rem;
+}
+.cid-qLj8PuVXLL .card-title {
+  text-align: center;
+}
+.cid-qLj8PuVXLL P {
   text-align: center;
 }
 .cid-qL6sAjUKUd {
