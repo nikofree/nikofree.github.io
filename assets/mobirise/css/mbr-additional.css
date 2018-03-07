@@ -1346,6 +1346,20 @@ body {
 .cid-qL0IMM3qpq B {
   color: #f7ed4a;
 }
+.cid-qLCyXpEzca {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #073b4c);
+}
+.cid-qLCyXpEzca .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qLCyXpEzca .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qL0FPKW7s7 {
   padding-top: 90px;
   padding-bottom: 90px;
